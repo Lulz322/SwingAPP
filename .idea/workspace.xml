@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f2aeaed-2f22-49bf-b670-3bfd0a2b349a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VIKmhKLMFOEvV0iLlAwTIl2j3Y" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="game" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f2aeaed-2f22-49bf-b670-3bfd0a2b349a" name="Default Changelist" comment="" />
+      <created>1576935329818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576935329818</updated>
+      <workItem from="1576935334198" duration="3350000" />
+      <workItem from="1576955696455" duration="4681000" />
+      <workItem from="1577014576142" duration="6499000" />
+      <workItem from="1577097194030" duration="8200000" />
+      <workItem from="1577105921318" duration="7375000" />
+      <workItem from="1577297719837" duration="7880000" />
+      <workItem from="1577360455985" duration="13400000" />
+      <workItem from="1577406329804" duration="496000" />
+      <workItem from="1577535642815" duration="8000000" />
+      <workItem from="1577721940476" duration="1698000" />
+      <workItem from="1577997401264" duration="3727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MainForm.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="q.get(2)" />
+        <watch expression="q.get(2)" language="JAVA" />
+        <watch expression="q.get(2)" />
+        <watch expression="way" language="JAVA" />
+        <watch expression="way.get(3)" />
+        <watch expression="way.get(3)" language="JAVA" />
+        <watch expression="way.get(3)" language="JAVA" />
+        <watch expression="dist" />
+        <watch expression="way.get(1)" />
+        <watch expression="way.get(5)" />
+        <watch expression="way.get(9)" />
+        <watch expression="way" language="JAVA" />
+        <watch expression="way" language="JAVA" />
+        <watch expression="way.get(2)" />
+        <watch expression="dist" language="JAVA" />
+        <watch expression="dist[7]" />
+        <watch expression="this" />
+        <watch expression="this" />
+        <watch expression="_map.enemies" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/game$Main.ic" NAME="Main Coverage Results" MODIFIED="1577997425591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
